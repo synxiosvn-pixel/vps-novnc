@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://teach-sep-disks-draft.trycloudflare.com/vnc.html
+URL       : https://wake-giants-milan-supervisor.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-01 09:43:43
+Created   : 2026-09-01 14:28:00
 =======================================================
