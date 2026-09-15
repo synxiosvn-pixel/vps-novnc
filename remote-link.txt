@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://sea-britney-gauge-zshops.trycloudflare.com/vnc.html
+URL       : https://welding-strength-talented-summary.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-14 22:55:29
+Created   : 2026-09-15 02:41:12
 =======================================================
