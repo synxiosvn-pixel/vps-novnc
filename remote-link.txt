@@ -1,9 +1,9 @@
 =======================================================
 noVNC INFO - DucThang x TrueHieu Edition
 =======================================================
-URL       : https://hebrew-durable-rules-reproduced.trycloudflare.com/vnc.html
+URL       : https://storage-investments-afford-united.trycloudflare.com/vnc.html
 Password  : hieudz
 Host      : trycloudflare
 Protocol  : noVNC over Cloudflared
-Created   : 2026-09-15 22:38:05
+Created   : 2026-09-16 02:35:40
 =======================================================
